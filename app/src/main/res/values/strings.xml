@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InsuranceBroker</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_message">Select one of the options to continue</string>
+    <string name="dialog_title">No option Selected</string>
+    <string name="question_address">What\'s your address?</string>
+    <string name="hint_address">E.g. 123 Main Street</string>
+    <string name="question_insurance">Who\'s your current insurer?</string>
+    <string name="hint_insurance">E.g. Geico</string>
+    <string name="OK">Ok</string>
+
+</resources>
